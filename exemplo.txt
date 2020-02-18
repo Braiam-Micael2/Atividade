@@ -1,0 +1,2 @@
+implementar o controle de opções
+implemenatrar o controle de textos
